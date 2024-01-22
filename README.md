@@ -1,6 +1,7 @@
-### Test repo - just for learning!
-Nothing interesting here
+### **Test repo** - just for learning!
 ---
+# Nothing interesting here
+
 Hello Mr. Odin!
 
 🦸 

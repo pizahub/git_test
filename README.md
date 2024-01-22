@@ -1,3 +1,4 @@
-# git_test
-Repo test
-Hello Odin!
+### Test repo - just for learning!
+Nothing interesting here
+---
+Hello Mr. Odin!

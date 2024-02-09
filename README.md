@@ -4,5 +4,7 @@
 
 Hello Mr. Odin!
 
+Another emoji
+🪗
 🦸 
 🦸‍♀️

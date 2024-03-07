@@ -8,7 +8,7 @@ This is a footnote[^1]. Here's my second footnote[^2]
 :----: | ----:
  One   | $23
  Three | $55
- Seven | $4
+ Seven | $45
 
 
 
